@@ -1,0 +1,9 @@
+---
+applications:
+- name: moviefun
+  path: target/moviefun.war
+  routes:
+  - route: moviefun-karan.apps.pikes.pal.pivotal.io
+  env:
+    MOVIE_FUN_URL: http://localhost:8080
+
