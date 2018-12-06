@@ -62,7 +62,8 @@
 
   <p>Please select one of the following links:</p>
   <a href="setup">Setup</a> - Sets up the application with some sample data<br/>
-  <a href="moviefun">Index</a> - Start the application<br/>
+  <a href="moviefun">Movies</a> - Start the application<br/>
+  <a href="albums">Albums</a> - Start the application<br/>
 
 </div>
 <!-- /container -->

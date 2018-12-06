@@ -1,0 +1,9 @@
+---
+applications:
+- name: moviefun-2
+  path: target/moviefun.war
+  routes:
+  - route: moviefun2-karan.apps.pikes.pal.pivotal.io
+  services:
+  - movies-mysql
+  - albums-mysql
